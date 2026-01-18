@@ -14,6 +14,7 @@ This project implements a simple *speech recognition system* using Python, which
 **OUTPUT**:
 
 <img width="384" height="55" alt="Image" src="https://github.com/user-attachments/assets/4a9ef02f-a7bb-477d-9fb0-d05ce94de823" />
+
 <img width="311" height="44" alt="Image" src="https://github.com/user-attachments/assets/b0601315-41dc-4f6a-a9a7-e40c909c009b" />
 
                         
